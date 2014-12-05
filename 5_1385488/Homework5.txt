@@ -1,0 +1,31 @@
+Assignment #5: Bipartite Matching
+In this assignment you will find the least offensive matchings for a group of N men and N women. The matching DOES NOT have to be stable, however you must find a matching that minimizes the value K, where K is the ranking of the "worst" pair.  In other words, if one matching has everyone paired with one of their top four choices, and another matching pairs everyone with their top choice, except there is one person left with choice #5, the first matching is preferable.
+
+Data files will be in the following format:
+
+Chandler:Monica,Rachel,Phoebe
+Joey:Rachel,Phoebe,Monica
+Ross:Rachel,Phoebe,Monica
+
+Monica:Chandler,Joey,Ross
+Phoebe:Joey,Ross,Chandler
+Rachel:Ross,Joey,Chandler
+From the first line, you should be able to deduce N, and the names of all the women. It should then be easy to check the remainder of the file to ensure that the underlying data represents a bipartite graph.
+
+In this case, everybody can be matched with either their first or second preference, and it is impossible to match everyone with their first preference, so the minimum value of K is 2. Your output should indicate the value of K that you obtain, and the matching, and the amount of time. The matching below is stable, but that is not a requirement, and it might not be possible to minimize K while maintaining stability.  For instance,
+
+Everybody matched with top 2 preferences:
+Chandler: matched to Monica (rank 1)
+Joey: matched to Phoebe (rank 2)
+Ross: matched to Rachel (rank 1)
+Monica: matched to Chandler (rank 1)
+Phoebe: matched to Joey (rank 1)
+Rachel: matched to Ross (rank 1)
+Elapsed time: 0 ms.
+Your algorithm should use a binary search to find K; since K lies somewhere between 1 and N, this means you may need run the bipartite matching algorithm log N different times, in each case, using only the edges that represent rankings from 1 to the current K that is being tested. Using the simplest bipartite matching algorithm (a network flow implementation), augmenting along any path will add exactly one unit of flow. This means the running time will be at most O( E V ) per flow, and since E is at most V2, this is O( V3 ) , and thus O( N3 ) per bipartite matching invocation. Since you are doing log N invocations, your total cost would be O( N3 log N ) for N couples. N will be less than 500, so you will not have any time challenges with a reasonable implementation.
+
+EXTRA CREDIT, ONE POINT ON FINAL COURSE AVERAGE
+The running time can be improved to O( N3 ). If you do not find a matching for some value of K, and thus your binary search needs to consider a higher K, after you add the additional edges you can use the current flow as a starting point, rather than restarting with 0 flow. This means that each time you compute a bipartite matching (i.e. a flow) it takes only half the time of the prior computation (consider the second flowcomputation to see why), the total cost of all the flow computations is only double the cost of the first computation. This same argument implies that the binary search is unnecessary; as long as you use your current flow as the starting point for the next flow computation, you can now sequentially try K = 1, 2, ... until you are able to find a matching of size N. If you do the extra credit, indicate this in your output.
+
+Available from:	Wednesday, 6 November 2013, 10:20 AM
+Due date:	Thursday, 21 November 2013, 12:30 PM

@@ -1,0 +1,24 @@
+Assignment #3: Bin Packing
+Solve the "bin packing" problem: Given a set of weights (each between 1 and 99), the bin packing problem is to find a way to assign the weights to a minimal number of bins of capacity 100. This problem is difficult to solve in general, so a number of heuristics have been studied. In this assignment you will use four separate heuristics and combine those to solve both the online and offline versions, for a total of eight algorithms. In the online version, we consider the weights in the order they are presented; in the offline version, the items are sorted in non-decreasing order by  weight. There are four common heuristics:
+
+Next fit: If the item fits in the last bin that was created, place it there; otherwise create a new bin. This can be implemented in linear time.
+First fit: Place the item in the first bin in which it can fit; otherwise create a new bin. This can be implemented in O(N log N) time with care by maintaining a NavigableSet<Bin> ordered by how full the Bins are, that contains only the bins the determine a new local minimum. In other words, if the bins were already packed as follows:
+Bin #1: 10 70  total = 80
+
+Bin #2: 90     total = 90
+
+Bin #3: 30 43  total = 73
+
+Bin #4: 75     total = 75
+
+Bin #5: 72     total = 72
+
+then the NavigableSet would contain only Bins #1, #3, and #5 because those are local minimums. (The idea is that First Fit could never place items in Bin #2 or #4; if they fit there, they would fit in an earlier bin). When a bin is selected, it is removed from the NavigableSet if it is not the first bin and if the additional weight makes it more full than its immediate predecessor in the NavigableSet. If a new bin is created it is added to the NavigableSet if it is less full than the last Bin in the NavigableSet. Note that TreeSet implements the NavigableSet interface. Look for methods such as headSet, last, and descendingIterator.
+
+Best fit: Place the item in the most full bin in which it can fit. This can be implemented in O(N log N) time with care by maintaining a NavigableSet<Bin> with all the bins. When an additional item is added to a bin, it must be removed from the NavigableSet and then reinserted.
+Worst fit: Place the item in the most empty bin in which it can fit. This can also be implemented in O(N log N) time with care by maintaining a NavigableSet<Bin> with all the bins or by using a PriorityQueue.
+Write a program that implements these heurisitics in an efficient manner to find out how many bins are required for input files that I will provide. These files will range from 10 items to 1,000,000 items. Your program should output the "ideal number of bins" (the sum of all the weights, divided by 100, rounded up), and for each algorithm, the number of bins used, and the contents of the first 10 bins.
+
+Available from:	Wednesday, 25 September 2013, 12:50 PM
+Due date:	Thursday, 10 October 2013, 12:30 PM
+
