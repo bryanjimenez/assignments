@@ -1,0 +1,46 @@
+(0,0) cell is 0
+(1,0) cell is 11114
+(2,1) cell is 16808
+(3,0) cell is 39495
+(4,1) cell is 24534
+(5,1) cell is 41209
+(6,2) cell is 16178
+(7,3) cell is 20928
+(8,4) cell is 11934
+(9,5) cell is 41578
+...
+(496,490) cell is 11889
+(497,491) cell is 33997
+(496,492) cell is 12173
+(496,493) cell is 46466
+(497,494) cell is 21807
+(497,495) cell is 10190
+(497,496) cell is 31828
+(498,497) cell is 13741
+(498,498) cell is 13138
+(499,499) cell is 0
+Total cost is 17877271
+
+(0,0) cell is START
+(0,1) cell is 91600
+(1,2) cell is 64666
+(2,3) cell is 84735
+(1,4) cell is 63613
+(2,5) cell is 65425
+(1,6) cell is 87422
+(1,7) cell is 89857
+(0,8) cell is 90900
+(1,9) cell is 80591
+...
+(495,492) cell is 60610
+(495,493) cell is 95394
+(495,494) cell is 96630
+(496,495) cell is 84387
+(496,496) cell is 61855
+(497,497) cell is 63138
+(498,496) cell is 97902
+(499,497) cell is 45564
+(499,498) cell is 67588
+(499,499) cell is END
+All cells support 45564
+

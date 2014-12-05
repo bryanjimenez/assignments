@@ -1,0 +1,11 @@
+Everybody matched with top 2 preferences:
+Elapsed time: 2 ms
+George: matched to Carrie (rank 2)
+Jerry: matched to Miranda (rank 1)
+Kramer: matched to Samantha (rank 1)
+Newman: matched to Charlotte (rank 2)
+Charlotte: matched to George (rank 2)
+Carrie: matched to Newman (rank 1)
+Miranda: matched to Jerry (rank 2)
+Samantha: matched to Kramer (rank 2)
+

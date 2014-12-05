@@ -1,0 +1,23 @@
+Everybody matched with top 10 preferences:
+Elapsed time: 9 ms
+m0: matched to w0 (rank 1)
+m1: matched to w7 (rank 2)
+m2: matched to w1 (rank 2)
+m3: matched to w5 (rank 1)
+m4: matched to w4 (rank 1)
+m5: matched to w6 (rank 2)
+m6: matched to w3 (rank 1)
+m7: matched to w9 (rank 1)
+m8: matched to w8 (rank 3)
+m9: matched to w2 (rank 1)
+w0: matched to m2 (rank 1)
+w8: matched to m9 (rank 2)
+w7: matched to m6 (rank 3)
+w4: matched to m8 (rank 4)
+w2: matched to m4 (rank 5)
+w1: matched to m0 (rank 6)
+w6: matched to m5 (rank 7)
+w5: matched to m7 (rank 8)
+w9: matched to m3 (rank 9)
+w3: matched to m1 (rank 10)
+

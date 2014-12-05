@@ -1,0 +1,46 @@
+(0,0) cell is 0
+(1,0) cell is 2855
+(2,0) cell is 1094
+(3,1) cell is 5533
+(4,0) cell is 2852
+(5,1) cell is 4146
+(6,2) cell is 1840
+(6,3) cell is 4075
+(7,4) cell is 3150
+(8,5) cell is 1044
+...
+(71,75) cell is 1515
+(72,76) cell is 3080
+(73,77) cell is 1241
+(74,78) cell is 1992
+(75,77) cell is 2523
+(76,76) cell is 6591
+(77,76) cell is 1681
+(78,77) cell is 2317
+(79,78) cell is 3709
+(79,79) cell is 0
+Total cost is 295261
+
+(0,0) cell is START
+(0,1) cell is 6605
+(1,2) cell is 6291
+(2,3) cell is 8147
+(3,3) cell is 8580
+(4,3) cell is 8120
+(5,2) cell is 7721
+(6,1) cell is 8532
+(7,2) cell is 8290
+(8,2) cell is 7179
+...
+(72,73) cell is 5508
+(73,74) cell is 8006
+(74,73) cell is 9836
+(75,74) cell is 8128
+(76,75) cell is 7802
+(75,76) cell is 7473
+(76,77) cell is 9819
+(77,77) cell is 9764
+(78,78) cell is 5279
+(79,79) cell is END
+All cells support 5279
+

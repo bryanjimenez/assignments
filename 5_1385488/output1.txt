@@ -1,0 +1,9 @@
+Everybody matched with top 2 preferences:
+Elapsed time: 2 ms
+Chandler: matched to Monica (rank 1)
+Joey: matched to Rachel (rank 1)
+Ross: matched to Phoebe (rank 2)
+Monica: matched to Chandler (rank 1)
+Rachel: matched to Ross (rank 1)
+Phoebe: matched to Joey (rank 1)
+

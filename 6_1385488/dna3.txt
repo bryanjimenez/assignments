@@ -1,0 +1,3815 @@
+Longest sequence that occurs 2 times has basic length 10 and is is aaaaaggatc
+Line 1306: AAAAA
+GGATC
+Line 566: AAAAAGGATC
+Longest sequence that occurs 3 times has basic length 8 and is is aaaaaaaa
+Line 1651: AAAAAAA
+A
+Line 1416: AAA
+AAAAA
+Line 1416: AAAA
+AAAA
+Longest sequence that occurs 4 times has basic length 8 and is is aaaaagga
+Line 1306: AAAAA
+GGA
+Line 566: AAAAAGGA
+Line 1416: AAAAAGGA
+Line 1482: AAAAAGGA
+Longest sequence that occurs 5 times has basic length 7 and is is aaaaaaa
+Line 1651: AAAAAA
+A
+Line 1416: AA
+AAAAA
+Line 1651: AAAAAAA
+Line 1416: AAA
+AAAA
+Line 1416: AAAA
+AAA
+Longest sequence that occurs 6 times has basic length 7 and is is aaaaaaa
+Line 832: AAAAAAA
+Line 1651: AAAAAA
+A
+Line 1416: AA
+AAAAA
+Line 1651: AAAAAAA
+Line 1416: AAA
+AAAA
+Line 1416: AAAA
+AAA
+Longest sequence that occurs 7 times has basic length 7 and is is aaaaaaa
+Line 361: AAAAAAA
+Line 832: AAAAAAA
+Line 1651: AAAAAA
+A
+Line 1416: AA
+AAAAA
+Line 1651: AAAAAAA
+Line 1416: AAA
+AAAA
+Line 1416: AAAA
+AAA
+Longest sequence that occurs 8 times has basic length 7 and is is aaaaagg
+Line 418: AAAAAGG
+Line 137: AAAAAGG
+Line 512: AAAAAGG
+Line 1568: AAAAAGG
+Line 1306: AAAAA
+GG
+Line 566: AAAAAGG
+Line 1416: AAAAAGG
+Line 1482: AAAAAGG
+Longest sequence that occurs 9 times has basic length 6 and is is aaaaaa
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 10 times has basic length 6 and is is aaaaaa
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 11 times has basic length 6 and is is aaaaaa
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 12 times has basic length 6 and is is aaaaaa
+Line 1416: A
+AAAAA
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 13 times has basic length 6 and is is aaaaaa
+Line 1651: AAAAA
+A
+Line 1416: A
+AAAAA
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 14 times has basic length 6 and is is aaaaaa
+Line 85: AAAAAA
+Line 1651: AAAAA
+A
+Line 1416: A
+AAAAA
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 15 times has basic length 6 and is is aaaaaa
+Line 832: AAAAAA
+Line 85: AAAAAA
+Line 1651: AAAAA
+A
+Line 1416: A
+AAAAA
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 16 times has basic length 6 and is is aaaaaa
+Line 47: AAAAAA
+Line 832: AAAAAA
+Line 85: AAAAAA
+Line 1651: AAAAA
+A
+Line 1416: A
+AAAAA
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 17 times has basic length 6 and is is aaaaaa
+Line 361: AAAAAA
+Line 47: AAAAAA
+Line 832: AAAAAA
+Line 85: AAAAAA
+Line 1651: AAAAA
+A
+Line 1416: A
+AAAAA
+Line 967: AAAAAA
+Line 1370: AAAAAA
+Line 1334: AAAAAA
+Line 737: AAAAAA
+Line 361: AAAAAA
+Line 832: AAAAAA
+Line 1651: AAAAAA
+Line 1416: AA
+AAAA
+Line 1651: AAAAAA
+Line 1416: AAA
+AAA
+Line 1416: AAAA
+AA
+Longest sequence that occurs 18 times has basic length 6 and is is aaaaag
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 19 times has basic length 6 and is is aaaaag
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 20 times has basic length 6 and is is aaaaag
+Line 418: AAAAAG
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 21 times has basic length 6 and is is aaaaag
+Line 707: AAAAAG
+Line 418: AAAAAG
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 22 times has basic length 6 and is is aaaaag
+Line 1417: AA
+AAAG
+Line 707: AAAAAG
+Line 418: AAAAAG
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 23 times has basic length 6 and is is aaaaag
+Line 32: AAAAAG
+Line 1417: AA
+AAAG
+Line 707: AAAAAG
+Line 418: AAAAAG
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 24 times has basic length 6 and is is aaaaag
+Line 1651: AAAA
+AG
+Line 32: AAAAAG
+Line 1417: AA
+AAAG
+Line 707: AAAAAG
+Line 418: AAAAAG
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 25 times has basic length 6 and is is aaaaag
+Line 85: AAAAAG
+Line 1651: AAAA
+AG
+Line 32: AAAAAG
+Line 1417: AA
+AAAG
+Line 707: AAAAAG
+Line 418: AAAAAG
+Line 137: AAAAAG
+Line 512: AAAAAG
+Line 1568: AAAAAG
+Line 1306: AAAAA
+G
+Line 566: AAAAAG
+Line 1416: AAAAAG
+Line 1482: AAAAAG
+Line 967: AAAAAG
+Line 413: AAAAAG
+Line 1004: AAAAAG
+Line 1650: AAAA
+AG
+Line 524: AAAAAG
+Line 1021: AAAAAG
+Line 1370: AAAAAG
+Line 657: AAAAAG
+Line 826: AAAAAG
+Line 358: AAAAAG
+Line 932: AAAAAG
+Line 1203: AAAAAG
+Longest sequence that occurs 26 times has basic length 5 and is is aaaaa
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 27 times has basic length 5 and is is aaaaa
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 28 times has basic length 5 and is is aaaaa
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 29 times has basic length 5 and is is aaaaa
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 30 times has basic length 5 and is is aaaaa
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 31 times has basic length 5 and is is aaaaa
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 32 times has basic length 5 and is is aaaaa
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 33 times has basic length 5 and is is aaaaa
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 34 times has basic length 5 and is is aaaaa
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 35 times has basic length 5 and is is aaaaa
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 36 times has basic length 5 and is is aaaaa
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 37 times has basic length 5 and is is aaaaa
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 38 times has basic length 5 and is is aaaaa
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 39 times has basic length 5 and is is aaaaa
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 40 times has basic length 5 and is is aaaaa
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 41 times has basic length 5 and is is aaaaa
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 42 times has basic length 5 and is is aaaaa
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 43 times has basic length 5 and is is aaaaa
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 44 times has basic length 5 and is is aaaaa
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 45 times has basic length 5 and is is aaaaa
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 46 times has basic length 5 and is is aaaaa
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 47 times has basic length 5 and is is aaaaa
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 48 times has basic length 5 and is is aaaaa
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 49 times has basic length 5 and is is aaaaa
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 50 times has basic length 5 and is is aaaaa
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 51 times has basic length 5 and is is aaaaa
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 52 times has basic length 5 and is is aaaaa
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 53 times has basic length 5 and is is aaaaa
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 54 times has basic length 5 and is is aaaaa
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 55 times has basic length 5 and is is aaaaa
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 56 times has basic length 5 and is is aaaaa
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 57 times has basic length 5 and is is aaaaa
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 58 times has basic length 5 and is is aaaaa
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 59 times has basic length 5 and is is aaaaa
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 60 times has basic length 5 and is is aaaaa
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 61 times has basic length 5 and is is aaaaa
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 62 times has basic length 5 and is is aaaaa
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 63 times has basic length 5 and is is aaaaa
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 64 times has basic length 5 and is is aaaaa
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 65 times has basic length 5 and is is aaaaa
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 66 times has basic length 5 and is is aaaaa
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 67 times has basic length 5 and is is aaaaa
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 68 times has basic length 5 and is is aaaaa
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 69 times has basic length 5 and is is aaaaa
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 70 times has basic length 5 and is is aaaaa
+Line 88: AAAAA
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 71 times has basic length 5 and is is aaaaa
+Line 406: AAAAA
+Line 88: AAAAA
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 72 times has basic length 5 and is is aaaaa
+Line 1448: AAAAA
+Line 406: AAAAA
+Line 88: AAAAA
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 73 times has basic length 5 and is is aaaaa
+Line 711: AAAAA
+Line 1448: AAAAA
+Line 406: AAAAA
+Line 88: AAAAA
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 74 times has basic length 5 and is is aaaaa
+Line 1652: AAAAA
+Line 711: AAAAA
+Line 1448: AAAAA
+Line 406: AAAAA
+Line 88: AAAAA
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 75 times has basic length 5 and is is aaaaa
+Line 843: AAAAA
+Line 1652: AAAAA
+Line 711: AAAAA
+Line 1448: AAAAA
+Line 406: AAAAA
+Line 88: AAAAA
+Line 43: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 1377: AAAAA
+Line 1490: AAAAA
+Line 1351: AAAAA
+Line 1288: AAAAA
+Line 832: AAAAA
+Line 976: AAAAA
+Line 172: AAAAA
+Line 704: AAAAA
+Line 17: AAAAA
+Line 1594: AAAAA
+Line 1319: AAAAA
+Line 766: AAAAA
+Line 85: AAAAA
+Line 1651: AAAA
+A
+Line 32: AAAAA
+Line 1417: AA
+AAA
+Line 707: AAAAA
+Line 418: AAAAA
+Line 137: AAAAA
+Line 512: AAAAA
+Line 1568: AAAAA
+Line 1306: AAAAA
+Line 566: AAAAA
+Line 1416: AAAAA
+Line 1482: AAAAA
+Line 967: AAAAA
+Line 413: AAAAA
+Line 1004: AAAAA
+Line 1650: AAAA
+A
+Line 524: AAAAA
+Line 1021: AAAAA
+Line 1370: AAAAA
+Line 657: AAAAA
+Line 826: AAAAA
+Line 358: AAAAA
+Line 932: AAAAA
+Line 1203: AAAAA
+Line 1540: AAAAA
+Line 382: AAA
+AA
+Line 1334: AAAAA
+Line 38: AAAAA
+Line 811: AAAAA
+Line 214: AAAAA
+Line 99: AAAAA
+Line 737: AAAAA
+Line 285: AAAAA
+Line 1355: AAAAA
+Line 117: AA
+AAA
+Line 921: AAAAA
+Line 361: AAAAA
+Line 47: AAAAA
+Line 832: AAAAA
+Line 85: AAAAA
+Line 1651: AAAAA
+Line 1416: A
+AAAA
+Line 967: AAAAA
+Line 1370: AAAAA
+Line 1334: AAAAA
+Line 737: AAAAA
+Line 361: AAAAA
+Line 832: AAAAA
+Line 1651: AAAAA
+Line 1416: AA
+AAA
+Line 1651: AAAAA
+Line 1416: AAA
+AA
+Line 1416: AAAA
+A
+Longest sequence that occurs 76 times has basic length 4 and is is aaaa
+Line 1568: AAAA
+Line 843: AAAA
+Line 1652: AAAA
+Line 711: AAAA
+Line 1448: AAAA
+Line 406: AAAA
+Line 88: AAAA
+Line 43: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 1377: AAAA
+Line 1490: AAAA
+Line 1351: AAAA
+Line 1288: AAAA
+Line 832: AAAA
+Line 976: AAAA
+Line 172: AAAA
+Line 704: AAAA
+Line 17: AAAA
+Line 1594: AAAA
+Line 1319: AAAA
+Line 766: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 32: AAAA
+Line 1417: AA
+AA
+Line 707: AAAA
+Line 418: AAAA
+Line 137: AAAA
+Line 512: AAAA
+Line 1568: AAAA
+Line 1306: AAAA
+Line 566: AAAA
+Line 1416: AAAA
+Line 1482: AAAA
+Line 967: AAAA
+Line 413: AAAA
+Line 1004: AAAA
+Line 1650: AAAA
+Line 524: AAAA
+Line 1021: AAAA
+Line 1370: AAAA
+Line 657: AAAA
+Line 826: AAAA
+Line 358: AAAA
+Line 932: AAAA
+Line 1203: AAAA
+Line 1540: AAAA
+Line 382: AAA
+A
+Line 1334: AAAA
+Line 38: AAAA
+Line 811: AAAA
+Line 214: AAAA
+Line 99: AAAA
+Line 737: AAAA
+Line 285: AAAA
+Line 1355: AAAA
+Line 117: AA
+AA
+Line 921: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 832: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 1416: A
+AAA
+Line 967: AAAA
+Line 1370: AAAA
+Line 1334: AAAA
+Line 737: AAAA
+Line 361: AAAA
+Line 832: AAAA
+Line 1651: AAAA
+Line 1416: AA
+AA
+Line 1651: AAAA
+Line 1416: AAA
+A
+Line 1416: AAAA
+Longest sequence that occurs 77 times has basic length 4 and is is aaaa
+Line 1998: AA
+AA
+Line 1568: AAAA
+Line 843: AAAA
+Line 1652: AAAA
+Line 711: AAAA
+Line 1448: AAAA
+Line 406: AAAA
+Line 88: AAAA
+Line 43: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 1377: AAAA
+Line 1490: AAAA
+Line 1351: AAAA
+Line 1288: AAAA
+Line 832: AAAA
+Line 976: AAAA
+Line 172: AAAA
+Line 704: AAAA
+Line 17: AAAA
+Line 1594: AAAA
+Line 1319: AAAA
+Line 766: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 32: AAAA
+Line 1417: AA
+AA
+Line 707: AAAA
+Line 418: AAAA
+Line 137: AAAA
+Line 512: AAAA
+Line 1568: AAAA
+Line 1306: AAAA
+Line 566: AAAA
+Line 1416: AAAA
+Line 1482: AAAA
+Line 967: AAAA
+Line 413: AAAA
+Line 1004: AAAA
+Line 1650: AAAA
+Line 524: AAAA
+Line 1021: AAAA
+Line 1370: AAAA
+Line 657: AAAA
+Line 826: AAAA
+Line 358: AAAA
+Line 932: AAAA
+Line 1203: AAAA
+Line 1540: AAAA
+Line 382: AAA
+A
+Line 1334: AAAA
+Line 38: AAAA
+Line 811: AAAA
+Line 214: AAAA
+Line 99: AAAA
+Line 737: AAAA
+Line 285: AAAA
+Line 1355: AAAA
+Line 117: AA
+AA
+Line 921: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 832: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 1416: A
+AAA
+Line 967: AAAA
+Line 1370: AAAA
+Line 1334: AAAA
+Line 737: AAAA
+Line 361: AAAA
+Line 832: AAAA
+Line 1651: AAAA
+Line 1416: AA
+AA
+Line 1651: AAAA
+Line 1416: AAA
+A
+Line 1416: AAAA
+Longest sequence that occurs 78 times has basic length 4 and is is aaaa
+Line 172: AAAA
+Line 1998: AA
+AA
+Line 1568: AAAA
+Line 843: AAAA
+Line 1652: AAAA
+Line 711: AAAA
+Line 1448: AAAA
+Line 406: AAAA
+Line 88: AAAA
+Line 43: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 1377: AAAA
+Line 1490: AAAA
+Line 1351: AAAA
+Line 1288: AAAA
+Line 832: AAAA
+Line 976: AAAA
+Line 172: AAAA
+Line 704: AAAA
+Line 17: AAAA
+Line 1594: AAAA
+Line 1319: AAAA
+Line 766: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 32: AAAA
+Line 1417: AA
+AA
+Line 707: AAAA
+Line 418: AAAA
+Line 137: AAAA
+Line 512: AAAA
+Line 1568: AAAA
+Line 1306: AAAA
+Line 566: AAAA
+Line 1416: AAAA
+Line 1482: AAAA
+Line 967: AAAA
+Line 413: AAAA
+Line 1004: AAAA
+Line 1650: AAAA
+Line 524: AAAA
+Line 1021: AAAA
+Line 1370: AAAA
+Line 657: AAAA
+Line 826: AAAA
+Line 358: AAAA
+Line 932: AAAA
+Line 1203: AAAA
+Line 1540: AAAA
+Line 382: AAA
+A
+Line 1334: AAAA
+Line 38: AAAA
+Line 811: AAAA
+Line 214: AAAA
+Line 99: AAAA
+Line 737: AAAA
+Line 285: AAAA
+Line 1355: AAAA
+Line 117: AA
+AA
+Line 921: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 832: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 1416: A
+AAA
+Line 967: AAAA
+Line 1370: AAAA
+Line 1334: AAAA
+Line 737: AAAA
+Line 361: AAAA
+Line 832: AAAA
+Line 1651: AAAA
+Line 1416: AA
+AA
+Line 1651: AAAA
+Line 1416: AAA
+A
+Line 1416: AAAA
+Longest sequence that occurs 79 times has basic length 4 and is is aaaa
+Line 553: AAAA
+Line 172: AAAA
+Line 1998: AA
+AA
+Line 1568: AAAA
+Line 843: AAAA
+Line 1652: AAAA
+Line 711: AAAA
+Line 1448: AAAA
+Line 406: AAAA
+Line 88: AAAA
+Line 43: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 1377: AAAA
+Line 1490: AAAA
+Line 1351: AAAA
+Line 1288: AAAA
+Line 832: AAAA
+Line 976: AAAA
+Line 172: AAAA
+Line 704: AAAA
+Line 17: AAAA
+Line 1594: AAAA
+Line 1319: AAAA
+Line 766: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 32: AAAA
+Line 1417: AA
+AA
+Line 707: AAAA
+Line 418: AAAA
+Line 137: AAAA
+Line 512: AAAA
+Line 1568: AAAA
+Line 1306: AAAA
+Line 566: AAAA
+Line 1416: AAAA
+Line 1482: AAAA
+Line 967: AAAA
+Line 413: AAAA
+Line 1004: AAAA
+Line 1650: AAAA
+Line 524: AAAA
+Line 1021: AAAA
+Line 1370: AAAA
+Line 657: AAAA
+Line 826: AAAA
+Line 358: AAAA
+Line 932: AAAA
+Line 1203: AAAA
+Line 1540: AAAA
+Line 382: AAA
+A
+Line 1334: AAAA
+Line 38: AAAA
+Line 811: AAAA
+Line 214: AAAA
+Line 99: AAAA
+Line 737: AAAA
+Line 285: AAAA
+Line 1355: AAAA
+Line 117: AA
+AA
+Line 921: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 832: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 1416: A
+AAA
+Line 967: AAAA
+Line 1370: AAAA
+Line 1334: AAAA
+Line 737: AAAA
+Line 361: AAAA
+Line 832: AAAA
+Line 1651: AAAA
+Line 1416: AA
+AA
+Line 1651: AAAA
+Line 1416: AAA
+A
+Line 1416: AAAA
+Longest sequence that occurs 80 times has basic length 4 and is is aaaa
+Line 425: AAAA
+Line 553: AAAA
+Line 172: AAAA
+Line 1998: AA
+AA
+Line 1568: AAAA
+Line 843: AAAA
+Line 1652: AAAA
+Line 711: AAAA
+Line 1448: AAAA
+Line 406: AAAA
+Line 88: AAAA
+Line 43: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 1377: AAAA
+Line 1490: AAAA
+Line 1351: AAAA
+Line 1288: AAAA
+Line 832: AAAA
+Line 976: AAAA
+Line 172: AAAA
+Line 704: AAAA
+Line 17: AAAA
+Line 1594: AAAA
+Line 1319: AAAA
+Line 766: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 32: AAAA
+Line 1417: AA
+AA
+Line 707: AAAA
+Line 418: AAAA
+Line 137: AAAA
+Line 512: AAAA
+Line 1568: AAAA
+Line 1306: AAAA
+Line 566: AAAA
+Line 1416: AAAA
+Line 1482: AAAA
+Line 967: AAAA
+Line 413: AAAA
+Line 1004: AAAA
+Line 1650: AAAA
+Line 524: AAAA
+Line 1021: AAAA
+Line 1370: AAAA
+Line 657: AAAA
+Line 826: AAAA
+Line 358: AAAA
+Line 932: AAAA
+Line 1203: AAAA
+Line 1540: AAAA
+Line 382: AAA
+A
+Line 1334: AAAA
+Line 38: AAAA
+Line 811: AAAA
+Line 214: AAAA
+Line 99: AAAA
+Line 737: AAAA
+Line 285: AAAA
+Line 1355: AAAA
+Line 117: AA
+AA
+Line 921: AAAA
+Line 361: AAAA
+Line 47: AAAA
+Line 832: AAAA
+Line 85: AAAA
+Line 1651: AAAA
+Line 1416: A
+AAA
+Line 967: AAAA
+Line 1370: AAAA
+Line 1334: AAAA
+Line 737: AAAA
+Line 361: AAAA
+Line 832: AAAA
+Line 1651: AAAA
+Line 1416: AA
+AA
+Line 1651: AAAA
+Line 1416: AAA
+A
+Line 1416: AAAA
+

@@ -1,0 +1,4 @@
+Everybody matched with top 1 preferences:
+Romeo: matched to Juliet (rank 1)
+Juliet: matched to Romeo (rank 1)
+Elapsed time: 1 ms
