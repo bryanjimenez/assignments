@@ -1,0 +1,42 @@
+Author: Bryan Jimenez
+
+sender twister and receiver simulate the go back n protocol
+sender and twister are implemented using threads instead of select
+
+
+To compile:
+
+	unzip
+	make  
+
+To run:
+
+	./sender <listenPort> <destIP> <destPort> <interval> <win size>
+	./twister <listenPort> <receiverIP> <receiverPort> <PC> <PD> <PO> <interval>
+	./receiver <listenPort>
+
+NOTE:
+	intervals are in seconds	
+	
+Thanks to:
+
+	(visual example of goback-n)
+	http://www.eecis.udel.edu/~amer/450/TransportApplets/GBN/GBNindex.html
+
+	(C strings, etc.)
+	http://en.wikibooks.org/wiki/A_Little_C_Primer/ 
+
+	(example udp client)
+	http://www.cs.ucsb.edu/~almeroth/classes/W01.176B/hw2/examples/udp-client.c
+
+	(how to get timestamp)
+	http://stackoverflow.com/questions/3673226/c-how-to-print-time-in-format-20090810181754-811
+
+	(Threads, mutex)
+	http://www.xgc.com/manuals/xgclib/x5257.html
+	
+	
+
+
+
+

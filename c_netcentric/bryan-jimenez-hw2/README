@@ -1,0 +1,53 @@
+Author: Bryan Jimenez
+
+sdb-server is a multithreaded chat server. Will interface with sdb-client and telnet
+sdb-client is a multithreaded chat client. sdb-client will display shapes (using GDK 2 and GDK+ 3) drawn by other users
+
+Dependencies:
+	libs gtk+-2.0 (sudo apt-get install libgtk2.0-dev)
+
+To compile:
+
+	unzip under the unpbook-code folder
+	make  
+
+To run:
+
+	./sdb-server <server-port> <board-dim-x> <board-dim-y>
+	./sdb-client <server-ip> <server-port> <alias>
+	
+Shapes:
+
+	point x y
+	line x1 y1 x2 y2
+	rectangle x1 y2 x2 y2
+	circle x y r	
+
+Thanks to:
+
+	(C strings, etc.)
+	http://en.wikibooks.org/wiki/A_Little_C_Primer/ 
+
+	Brian "Beej Jorgensen" Hall (Sockets)
+	http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html#select
+
+	(Threads, mutex)
+	http://www.xgc.com/manuals/xgclib/x5257.html
+	
+	GDK 2 Reference Manual
+	http://developer.gnome.org/gdk/stable/
+	
+	GTK+ Forum (drawing a line on a window)
+	http://www.gtkforums.com/viewtopic.php?t=6899
+
+	Ernesto (from class, enlightened me about the gui)
+	Ernesto- "Create the gui, destroy it, and do it over with new data..."
+	I didn't end up doing that, but kept messing with it until something worked
+	
+TODO:
+
+	Draw shapes in color
+	Forbid same user names
+	Do something useful with board-dim-x and board-dim-y
+	
+	

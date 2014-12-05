@@ -1,0 +1,29 @@
+Author: Bryan Jimenez
+
+myserver is a tiny multiprocessed server that will serve html pages with images, css, and javascript.
+
+to compile:
+
+unzip under the unpbook-code folder
+make and run myserver
+
+to use:
+
+point your browser to the ip(127.0.0.1 if in the same machine) and port(55555 by default, can be changed in the source) of myserver
+myserver will serve pages in the "www" folder by default (can be changed in the source)
+
+
+
+
+
+
+CREDITS
+
+C jpegs
+http://images.google.com
+
+Animated gifs from:
+http://www.thisiscolossal.com/2013/01/the-gif-art-of-paolo-ceric/
+
+C strings refresher:
+http://en.wikibooks.org/wiki/A_Little_C_Primer/C_String_Function_Library

@@ -1,0 +1,28 @@
+Author: Bryan Jimenez
+
+mycipher is an S-DES (Simplified Data Encryption Standard) encryptor/decryptor
+
+
+To compile:
+
+	unzip
+	make  
+
+To run:
+
+	mycipher [-d] <key> <init_vector> <input_file> <output_file>
+
+Notes:
+
+	files will be read/written one line at a time expecting/printing one word at each line
+
+Thanks to:
+
+	(Algorithm)
+	http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation
+
+	(binary hex decimal)
+	ghex hex editor
+	
+	(decimal/ascii to binary)
+	http://stackoverflow.com/questions/5369440/how-does-one-convert-ascii-to-binary
